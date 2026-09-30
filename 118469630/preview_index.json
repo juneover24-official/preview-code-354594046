@@ -1,7 +1,7 @@
 {
   "qq_number": "354594046",
   "group_number": "118469630",
-  "updated_at": "2026-09-29T09:13:35+00:00",
+  "updated_at": "2026-09-30T04:01:23+00:00",
   "skins": [
     {
       "name": "sallyloving 「刘亦菲主题定制」动态",
@@ -21,6 +21,12 @@
       "file": "复古金秋女郎.bds",
       "thumb": "复古金秋女郎.bds_py_26_light_thumb.png",
       "full": "复古金秋女郎.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "sallyloving 「原野童话」动态",
+      "file": "原野童话.bdi",
+      "thumb": "原野童话.bdi_py_26_light_thumb.png",
+      "full": "原野童话.bdi_py_26_light_thumb.png"
     }
   ]
 }
