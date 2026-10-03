@@ -1,7 +1,7 @@
 {
   "qq_number": "354594046",
   "group_number": "118469630",
-  "updated_at": "2026-09-30T08:11:50+00:00",
+  "updated_at": "2026-10-03T14:33:33+00:00",
   "skins": [
     {
       "name": "sallyloving 「刘亦菲主题定制」动态",
@@ -33,6 +33,12 @@
       "file": "原野童话.bds",
       "thumb": "原野童话.bds_py_26_light_thumb.png",
       "full": "原野童话.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "sallyloving 「百饰可美了」动态",
+      "file": "百饰可美了.bdi",
+      "thumb": "百饰可美了.bdi_py_26_light_thumb.png",
+      "full": "百饰可美了.bdi_py_26_light_thumb.png"
     }
   ]
 }
