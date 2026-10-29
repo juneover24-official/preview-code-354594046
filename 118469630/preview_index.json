@@ -1,7 +1,7 @@
 {
   "qq_number": "354594046",
   "group_number": "118469630",
-  "updated_at": "2026-10-28T12:31:25+00:00",
+  "updated_at": "2026-10-29T07:53:38+00:00",
   "skins": [
     {
       "name": "sallyloving 「刘亦菲主题定制」动态",
@@ -46,6 +46,12 @@
       "thumb": "绿野仙踪.bdi_py_26_light_thumb.png",
       "full": "绿野仙踪.bdi_py_26_light_thumb.png",
       "file_id": "537dc472639a4abc656c8e3deaba7e88"
+    },
+    {
+      "name": "sallyloving 「绿野仙踪」动态",
+      "file": "绿野仙踪.bds",
+      "thumb": "绿野仙踪.bds_py_26_light_thumb.png",
+      "full": "绿野仙踪.bds_py_26_light_thumb.png"
     }
   ]
 }
