@@ -1,7 +1,7 @@
 {
   "qq_number": "354594046",
   "group_number": "118469630",
-  "updated_at": "2026-11-05T07:52:58+00:00",
+  "updated_at": "2026-11-05T08:17:29+00:00",
   "skins": [
     {
       "name": "sallyloving 「刘亦菲主题定制」动态",
@@ -59,6 +59,12 @@
       "thumb": "新中式花瓷赋.bdi_py_26_light_thumb.png",
       "full": "新中式花瓷赋.bdi_py_26_light_thumb.png",
       "file_id": "10a8876d907c2299cbb5c20d21708f8f"
+    },
+    {
+      "name": "sallyloving 「新中式•花瓷赋」动态",
+      "file": "新中式花瓷赋.bds",
+      "thumb": "新中式花瓷赋.bds_py_26_light_thumb.png",
+      "full": "新中式花瓷赋.bds_py_26_light_thumb.png"
     }
   ]
 }
