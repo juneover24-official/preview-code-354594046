@@ -1,7 +1,7 @@
 {
   "qq_number": "354594046",
   "group_number": "118469630",
-  "updated_at": "2026-11-17T03:15:19+00:00",
+  "updated_at": "2026-11-17T07:55:12+00:00",
   "skins": [
     {
       "name": "sallyloving 「刘亦菲主题定制」动态",
@@ -108,6 +108,12 @@
       "file": "怪趣少女集.bdi",
       "thumb": "怪趣少女集.bdi_py_26_light_thumb.png",
       "full": "怪趣少女集.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "sallyloving 「怪趣少女集」动态",
+      "file": "怪趣少女集.bds",
+      "thumb": "怪趣少女集.bds_py_26_light_thumb.png",
+      "full": "怪趣少女集.bds_py_26_light_thumb.png"
     }
   ]
 }
